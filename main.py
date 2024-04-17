@@ -1,8 +1,8 @@
-from scheduler import Scheduler
-from job import Job
-from generators import init_directory
-from generators import get_data_from_api
 from generators import calculate_result
+from generators import get_data_from_api
+from generators import init_directory
+from job import Job
+from scheduler import Scheduler
 from settings import CITIES
 
 

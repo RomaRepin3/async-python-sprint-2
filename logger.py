@@ -3,7 +3,6 @@ from logging import basicConfig
 from logging import getLogger
 from sys import stdout
 
-
 basicConfig(
     level=INFO,
     format='%(asctime)s - %(message)s',
